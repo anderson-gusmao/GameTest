@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ControlGameKit",
+        "repositoryURL": "https://github.com/anderson-gusmao/ControlGameKit",
+        "state": {
+          "branch": null,
+          "revision": "becb3036eda0748b70cd8c31dc3baeb091ad86c0",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
